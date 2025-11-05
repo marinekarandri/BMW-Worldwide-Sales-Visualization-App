@@ -21,7 +21,7 @@ def load_data_from_path(path: str):
 st.sidebar.header("🔧 Pengaturan Data")
 
 # Ganti ini kalau nama file di laptop kamu beda
-default_path = "BMW_Sales_Data_2010_2024"
+default_path = "BMW sales data (2010-2024)"
 
 use_uploaded = st.sidebar.checkbox(
     "Gunakan file CSV upload (bukan file lokal)",
