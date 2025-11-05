@@ -2,11 +2,7 @@
 
 Proyek ini adalah aplikasi **visualisasi data interaktif** berbasis **Streamlit** yang menampilkan data penjualan BMW di berbagai region dunia dari tahun **2010 hingga 2024**.
 
-Aplikasi ini dirancang sebagai **portofolio data** untuk menunjukkan kemampuan dalam:
-- Data cleaning & transformasi sederhana
-- Exploratory Data Analysis (EDA)
-- Visualisasi interaktif (Plotly + Streamlit)
-- Pembuatan dashboard berbasis web
+Demo App : https://bmw-worldwide-sales-visualization-app-t66umepaoupbf8fd3hspyl.streamlit.app/
 
 ---
 
